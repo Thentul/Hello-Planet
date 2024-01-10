@@ -4,4 +4,6 @@ example repo
 <hr>
 # Entries
 
-Change 1.
+Blue.
+Red.
+
