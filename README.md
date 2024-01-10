@@ -5,6 +5,7 @@ example repo
 # Entries
 
 Blue.
-
+Orange
+Yellow
 Red.
 
